@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Recursos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Recursos/HolaMundo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Recursos/HolaMundo2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
